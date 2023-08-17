@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dixit Thakrar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently working on **Himalayan Hope Charitable Foundation**
+- 🔭 I’m currently working on **Wordpress**
 
 - 🌱 I’m currently learning **Python and Javascript**
 
